@@ -1,7 +1,7 @@
 public class task1 {
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Usage: Сheck the number of variables entered(n,m)");
+            System.out.println("Usage: Check the number of variables entered(n,m)");
             return;
         }
         int n = Integer.parseInt(args[0]);
